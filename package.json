@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-express-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Restfull CRUD API with Node.js, Express and Mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/culyssander/nodejs-express-mysql.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "myslq",
+    "restapi"
+  ],
+  "author": "Quitumba Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/culyssander/nodejs-express-mysql/issues"
+  },
+  "homepage": "https://github.com/culyssander/nodejs-express-mysql#readme"
+}
